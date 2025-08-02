@@ -1,4 +1,4 @@
-# Task-2---lms-sql
+# Task-2-lms-sql
 
 ## Objective
 This project demonstrates the design and implementation of a normalized SQL schema for a **Learning Management System (LMS)**. It includes essential database concepts such as foreign key relationships, check constraints, views, triggers, soft deletes, and audit logging using SQL.
